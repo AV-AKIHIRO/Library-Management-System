@@ -52,7 +52,7 @@ Unit tests for the LMS are written using CUnit. After setting up the LMS, it can
 
 <h2>Team Members (Team 6)</h2>
 
-1. Prateek Rath (IMT2022017)
-2. Areen Vaghasiya (IMT2022048)
+1. Areen Vaghasiya (IMT2022048)
+2. Prateek Rath (IMT2022017)
 3. Rudra Pathak (IMT2022081)
 4. Kandarp Dave (IMT2022115)

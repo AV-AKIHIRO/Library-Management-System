@@ -1,10 +1,10 @@
-# 📚 Library Management System (LMS) – Terminal Application
+# Library Management System (LMS) – Terminal Application
 
 The **Library Management System (LMS)** is a terminal-based application designed for efficient and secure management of a library's operations. It supports functionalities for managing users, books, and transactions. The system features a client-server architecture and is implemented in C using OS-level concepts such as multithreading and synchronization.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 The project is organized into the following directories:
 
@@ -16,7 +16,7 @@ The project is organized into the following directories:
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 Follow the steps below to build and run the LMS on your local machine:
 
@@ -58,7 +58,7 @@ Follow the steps below to build and run the LMS on your local machine:
 
 ---
 
-## 🧪 Testing Instructions
+##  Testing Instructions
 
 Unit tests are implemented using **CUnit**. To run the test suite:
 
@@ -79,11 +79,11 @@ Unit tests are implemented using **CUnit**. To run the test suite:
    ./test_transactions
    ```
 
-> ⚠️ **Note**: Running tests will reset the contents of data files to their base state. Be sure to back up any important data before testing.
+>  **Note**: Running tests will reset the contents of data files to their base state. Be sure to back up any important data before testing.
 
 ---
 
-## 👨‍💻 Team Members – Team 6
+##  Team Members – Team 6
 
 - **Areen Vaghasiya** (IMT2022048)  
 - **Prateek Rath** (IMT2022017)  
